@@ -25,11 +25,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![screenshot](./assets/images/screenshot.jpg)
+![screenshot](./assets/images/screenshot.JPG)
 
 ### Links
 
-- Solution: [frontendmentor.io](https://your-solution-url.com)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/profile-card-component-LYUJaKyr1r)
 - Live Site: [github.io](https://siavhnz.github.io/frontendmentor/5.profile-card/index.html)
 
 ## My process
